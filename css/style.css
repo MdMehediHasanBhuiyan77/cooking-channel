@@ -1,0 +1,241 @@
+.first-background{
+    border: 3px hidden blue;
+    border-radius: 15px;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(/images/back-2.jpg);
+    margin-bottom: 40px;
+}
+
+body{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+#logo-top{
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top:1%;
+    margin-bottom: 1%;
+}
+.hr-top{
+    width: 80%;
+    border: 1px solid orange;
+}
+.menu-items{
+   padding-left: 90px;
+   
+}
+.menu{
+    margin: auto;
+    width: 80%;
+
+    border-width: 3px;
+    border-style: solid;
+    border-image: linear-gradient( orange, rgba(0, 0, 0, 0)) 1 100%;
+    
+}
+.table-items-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+/*STYLES   FOR    SECTION    ONE    AND     TWO    APPLIES    FROM     HERE */
+
+
+
+
+.slogan-color{
+    color: orange;    
+}
+.div-two{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 15px;
+    font-family: 'Encode Sans SC', sans-serif;
+    display: flex;
+    border: 3px hidden green;
+}
+.div-two-items{
+    border: 3px hidden aqua;    
+}
+.div-two-items img{
+    margin-left: 300px;
+    max-width: 100%;
+}
+.div-two-image{
+    margin-left: 320px; 
+}
+#headline-one{
+    font-size: 320%;
+    margin-top: 180px;
+    margin-right: 40px;
+    color: orange;
+}
+.slogan-color-other{
+    color: rgb(82, 79, 79);
+}
+.para-one{
+    font-size:large;
+    border: 3px hidden brown;
+    margin-bottom: 25px;
+}
+.text-one{
+    display: block;
+}
+
+
+.button-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, orange , rgba(255, 99, 71, 0.664));
+    padding: 13px 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 23px;
+}
+.sec-two{   
+    border: 3px hidden blue;
+    
+    margin-bottom: 120px;
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(/images/78.png);
+}
+.div-three-image{
+    margin-right: 320px; 
+}
+
+
+
+
+
+
+/*STYLES   FOR    SECTION   THREE    APPLIES    FROM     HERE */
+
+
+
+
+
+
+
+.third-headline{
+    border: 3px hidden red;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    font-family: 'Encode Sans SC', sans-serif;
+
+
+}
+.info-para{
+    border: 3px hidden greenyellow;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    margin-bottom: 70px;
+    color: white;
+
+    
+    
+}
+.third-para-font{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+
+
+
+
+.recipe-section{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+.recipe{
+    border: 3px hidden red;
+    border-radius: 20px;
+    margin-right: 3%;
+    box-shadow: 3px 3px 8px grey;
+    margin-bottom: 200px;
+}
+.recipe-image{
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 3%;
+    border: 3px hidden blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 8px grey;
+    
+}
+
+
+.recipe-title{
+    border: 3px hidden pink;
+    padding-left: 3%;
+}
+
+
+.recipe-para{
+    border: 3px hidden green;
+    padding-right: 20%;
+    padding-left: 3%;
+}
+
+
+
+.hr-third{
+    width: 20%;
+    border: 1px solid orange;
+    
+
+}
+
+
+.div-last{
+    border: 3px hidden red;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 70px;
+    text-align: center;
+    color: white;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+
+
+.last-head{
+    border: 3px hidden red;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+    text-align: center;
+    font-family: 'Encode Sans SC', sans-serif;
+
+}
+
+.section-last{
+    padding-top: 20px;
+    border: 3px hidden red;
+    border-radius: 15px;
+    padding-bottom: 40px;
+    background-color: rgb(0, 0, 34);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
